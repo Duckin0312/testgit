@@ -1,0 +1,14 @@
+D:\Code\C#\event-system\bin\Debug\net10.0\event-system.exe
+D:\Code\C#\event-system\bin\Debug\net10.0\event-system.deps.json
+D:\Code\C#\event-system\bin\Debug\net10.0\event-system.runtimeconfig.json
+D:\Code\C#\event-system\bin\Debug\net10.0\event-system.dll
+D:\Code\C#\event-system\bin\Debug\net10.0\event-system.pdb
+D:\Code\C#\event-system\obj\Debug\net10.0\event-system.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\C#\event-system\obj\Debug\net10.0\event-system.AssemblyInfoInputs.cache
+D:\Code\C#\event-system\obj\Debug\net10.0\event-system.AssemblyInfo.cs
+D:\Code\C#\event-system\obj\Debug\net10.0\event-system.csproj.CoreCompileInputs.cache
+D:\Code\C#\event-system\obj\Debug\net10.0\event-system.dll
+D:\Code\C#\event-system\obj\Debug\net10.0\refint\event-system.dll
+D:\Code\C#\event-system\obj\Debug\net10.0\event-system.pdb
+D:\Code\C#\event-system\obj\Debug\net10.0\event-system.genruntimeconfig.cache
+D:\Code\C#\event-system\obj\Debug\net10.0\ref\event-system.dll
